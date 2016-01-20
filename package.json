@@ -1,6 +1,6 @@
 {
   "name": "node-rwe-smarterhome-lib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "RWE-SmartHome Library for Node.js",
   "main": "./lib/smarthome",
   "scripts": {
