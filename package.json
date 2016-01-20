@@ -22,5 +22,6 @@
   "homepage": "https://github.com/PArns/node-rwe-smarterhome-lib#readme",
   "dependencies": {
     "meep-meep-xml": "0.0.3"
-  }
+  },
+  "devDependencies": {}
 }
