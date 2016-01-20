@@ -20,7 +20,9 @@ RWE-SmarterHome is a Node.JS library for the RWE-SmartHome which directly commun
                 });
     
                 var p = smartHome.getDeviceByName("Test");
-                p.setState(true);
+                
+                if (p)
+                    p.setState(true);
     
             });
     
