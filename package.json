@@ -1,0 +1,26 @@
+{
+  "name": "node-rwe-smarterhome-lib",
+  "version": "1.0.0",
+  "description": "RWE-SmartHome Library for Node.js",
+  "main": "/lib/smarthome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PArns/node-rwe-smarterhome-lib.git"
+  },
+  "keywords": [
+    "RWE",
+    "SmartHome"
+  ],
+  "author": "Patrick Arns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PArns/node-rwe-smarterhome-lib/issues"
+  },
+  "homepage": "https://github.com/PArns/node-rwe-smarterhome-lib#readme",
+  "dependencies": {
+    "meep-meep-xml": "0.0.3"
+  }
+}
